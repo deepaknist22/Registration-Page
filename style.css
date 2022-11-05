@@ -1,0 +1,15 @@
+.container{
+    background-color: aliceblue;
+}
+
+.btn{
+    border-radius: 15px;
+}
+
+.form-control{
+ border-radius: 10px;;
+}
+
+.main-heading{
+    font-weight:800;
+}
